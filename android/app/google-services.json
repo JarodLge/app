@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "998646811182",
+    "project_id": "anigest-6499b",
+    "storage_bucket": "anigest-6499b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:998646811182:android:3c0beec35886bcb2ff6dbf",
+        "android_client_info": {
+          "package_name": "com.example.anigest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "998646811182-qrsr8dr8mtoaaa47j8h4etoisi1jin7i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmxgDeN66nXKvLanDWEoMSJV7lkInkEAA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "998646811182-qrsr8dr8mtoaaa47j8h4etoisi1jin7i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
